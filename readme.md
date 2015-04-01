@@ -1,15 +1,5 @@
 # Purpose Statement whole line
 This repository will contain various tutorial oriented codes for various languages. It is primarily for personal reference, but I welcome any possible insight, questions, or even suggestions. endl
-% percent
-^ carot
-@ At
-! exclamation
-$ dollar sign
-& ampersand
-(brackets 1)
-[brackets 2]
-{brackets 3}
-"quotation"
-'half quotes'
-: colons : hi
+testing
+
 #testnospace
