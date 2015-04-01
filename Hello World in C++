@@ -1,0 +1,15 @@
+\\This is a warmup C++ program because I havent touched this language in a while. 
+#include<iostream>
+#inlcude<stringstream>
+using namespace STD;
+
+int main()
+{
+int a;
+  cout<< "Hello Cruel Beautiful Programming World. How many years have you been programming for?.: ";
+  cin>>a;
+  if (a>1) cout<< endl <<"Wow thats a pretty long time, I just started pretty much";
+  else cout<< endl <<"You may not be experienced, but time fixes that. I just started pretty much";
+  cout<< endl<<"The keys crackle under my fingertips, yet they feel so tender to the touch";
+  return 0;
+  }
