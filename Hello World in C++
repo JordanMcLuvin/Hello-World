@@ -10,7 +10,7 @@ int a;
   cin>>a;
     if (a>1) cout<< endl <<"Wow thats a pretty long time, I just started pretty much";
     else cout<< endl <<"You may not be experienced, but time fixes that. I just started pretty much";
-  cout<< endl<<"I jest, Filthy peon, it will be 100 years before you can even comprehend the "<<endl<<"masterfull genius of my programming." << endl;
+  cout<< endl<<"I jest, feeble peon, it will be 100 years before you can even comprehend the "<<endl<<"masterfull genius of my programming." << endl;
   system("PAUSE");
   return 0;
   }
