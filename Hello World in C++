@@ -1,15 +1,16 @@
-\\This is a warmup C++ program because I havent touched this language in a while. 
-#include<iostream>
-#inlcude<stringstream>
-using namespace STD;
+//This is a warmup C++ program because I havent touched this language in a while. 
+#include <iostream>
+#include <string>
+using namespace std;
 
 int main()
 {
 int a;
-  cout<< "Hello Cruel Beautiful Programming World. How many years have you been programming for?.: ";
+  cout<< "Hello Cruel Beautiful Programming World."<< endl << "How many years have you been programming for?: ";
   cin>>a;
-  if (a>1) cout<< endl <<"Wow thats a pretty long time, I just started pretty much";
-  else cout<< endl <<"You may not be experienced, but time fixes that. I just started pretty much";
-  cout<< endl<<"The keys crackle under my fingertips, yet they feel so tender to the touch";
+    if (a>1) cout<< endl <<"Wow thats a pretty long time, I just started pretty much";
+    else cout<< endl <<"You may not be experienced, but time fixes that. I just started pretty much";
+  cout<< endl<<"I jest, Filthy peon, it will be 100 years before you can even comprehend the "<<endl<<"masterfull genius of my programming." << endl;
+  system("PAUSE");
   return 0;
   }
