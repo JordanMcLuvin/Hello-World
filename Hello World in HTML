@@ -1,0 +1,38 @@
+<!--This is simply what a comment looks like-->
+
+<!doctype html>
+<html>
+<head>
+  <title>Greetings and salutations HTML programming</title>
+</head>
+<body>
+  <h1> Hello Strange Familiar Programming World
+  </h1>
+  <p title="Statement of language">This is my first HTML script.</p>
+  <!--Adding the title to <p> makes it display a tooltip when highlighted with the mouse.-->
+  
+  <p> A haiku to my sweet love: <strong>the internet</strong>.<br>
+      <em>Unstoppable growth<br>
+      An infinite reservoir<br>
+      Abounding info<br><br>
+      I learn this for you<br>
+      Mastery is my pursuit<br>
+      Internet Haiku</em>
+  </p><hr><p>Thank you for reading my haiku</p>
+  <a href="https://github.com/JordanMcLuvin">Heres my github, and an image of bacon</a><br>
+  <img src="Bacon.jpg"alt="sadly, you don't see the beautiful piece of bacon I do."width="300"height="168">
+  <h2>Sincerely JordanMcLuvin</h2>
+</body>
+</html>
+
+<!--Alternatively rather than doing breaks, it's also possible to use the <pre></pre> element.
+In that element it shows all the spaces and indents put into the text. This will however make the words italicized.-->
+
+<!--The <em></em> elements are unnecessarry, they are simply emphasis. They make words italicized for emphasis-->
+<!--The <strong></strong> element is similar in that it emphasises.They make words bold. Completely optional.-->
+<!--Another useful tool is <abbr title="***">words</abbr>. When highlighted, words will yield bonus info-->
+<!--  Entities to remember
+      &gt; denotes the greater-than sign (>)
+      &lt; denotes the less-than sign (<)
+      &amp; denotes the ampersand (&)
+      &quot; denotes double quote (") -->
